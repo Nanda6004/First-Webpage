@@ -1,0 +1,147 @@
+body{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border:4px solid #ffcc00;
+	border-style: double;
+	color: white;
+	background-color: #0000cc;
+}
+body h1{
+	font-family:sans-serif;
+	text-align: center;
+	text-decoration-line: underline;
+	text-decoration-color: #ffcc00;
+	background-color: #000066;
+	color: #ffcc00;
+}
+body hr{
+	border: 2px solid #ffcc00;
+}
+body h2,strong{
+	font-weight: bold;
+	font-size: large;
+	font-family: comic sans MS;
+	color: #ffcc00;
+}
+body img{
+	width: 350px;
+	height: 450px;
+	margin-left: 550px;
+}
+p i{
+	font-size: 24px;
+	color: #ffcc00;
+	font-weight: bold;
+}
+body p{
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: #000066;
+}
+body b{
+	font-size: 30px;
+	font font-family: times new header;
+	color: #ffcc00;
+	font-weight: bold;
+}
+.resource{
+	margin-top: 100px;
+	padding-left: 300px;
+	font-size: 30px;
+	font-family: times new header;
+	color: #ffcc00;
+	font-weight: bold;
+	background-color: #000066;
+}
+.btn{
+	border: 2px solid #ffcc00;
+	padding: 10px 20px;
+	font-size: 20px;
+	color: #ffcc00;
+	font-family: times new header;
+	cursor: pointer;
+	border: 4px solid #ffcc00;
+	border-radius: 7px;
+}
+iframe{
+	margin-top: 60px;
+}
+.resource ul li{
+	margin-top: 20px;
+}
+#ending{
+	font-family: comic sans MS;
+	font-size: 18px;
+	margin-top: 20px;
+	padding-left: 10px;
+}
+.login header{
+	font-family: arial black;
+	font-weight: bold;
+	font-size: 48px;
+	padding-left: 340px;
+	text-decoration-line: underline;
+	text-decoration-color: #ffcc00;
+	color: white;
+	padding-left: 650px;
+}
+.xyz{
+	margin-left: 530px;
+	font-size: 26px;
+	color: white;
+
+}
+.login hr{
+	border: 2px solid #ffcc00;
+	margin-right: 400px;
+	margin-left: 400px;
+}
+.text{
+	font-family: comic sans MS;
+	font-size: 24px;
+	font-weight: bold;
+	margin-left: 20px;
+	margin-top: 30px;
+	border-radius: 10px;
+	border: 4px solid #ffcc00;
+	
+}
+.loginbtn{
+	margin-left: 700px;
+	font-family: comic sans MS;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 25px;
+	border-radius: 5px;
+	height:45px;
+	border: 4px solid #ffcc00;
+
+}
+.login{
+	background-color: #000066;
+}
+h3{
+	text-align: center;
+	font-size: 24px;
+	margin-top: 20px;
+}
+.socialmedia1{
+	color: white;
+	font-size: 50px;
+	margin-left: 600px;
+	margin-top: 5px;
+}
+.socialmedia2{
+	color: white;
+	font-size: 50px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
+.socialmedia3{
+	color: white;
+	font-size: 50px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
